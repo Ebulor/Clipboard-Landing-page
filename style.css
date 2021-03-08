@@ -266,6 +266,9 @@ section{
     .section-3{
         align-items: center;
     }
+    .device-img{
+        width: 100%;
+    }
     .icon-container{
         flex-direction: row;
     }   
