@@ -265,6 +265,7 @@ section{
     }
     .section-3{
         align-items: center;
+        width: 100%;
     }
     .device-img{
         width: 100%;
